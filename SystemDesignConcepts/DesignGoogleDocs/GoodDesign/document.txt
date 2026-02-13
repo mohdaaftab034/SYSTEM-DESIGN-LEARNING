@@ -1,0 +1,3 @@
+Hello, this is a sample document.
+This document is created using the DocumentEditor class.
+[Image: image.png]	End of the document.
